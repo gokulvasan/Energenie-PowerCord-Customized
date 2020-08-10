@@ -49,3 +49,5 @@ Enable all sockets
 ```
 python energenie.py --ip '192.168.1.10' -e
 ```
+
+Taken From : https://github.com/schneuwlym/energenie
